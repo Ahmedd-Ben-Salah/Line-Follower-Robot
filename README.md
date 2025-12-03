@@ -70,9 +70,9 @@ Feel free to open issues or submit pull requests for suggestions, improvements, 
 
 ## Contributors
 
-- Ahmed Ben Salah
-- Anas Abd Elmalek Cherif
-- Aziz Abbes
+- Ahmed Ben Salah 
+- Anas Abd Elmalek Cherif (https://github.com/anascherif).
+- Aziz Abbes (https://github.com/mohamedazizabbes).
 - Nassim Mhamdi
 
 ## License
